@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "835203756984",
+    "firebase_url": "https://es3af-ca2e6.firebaseio.com",
+    "project_id": "es3af-ca2e6",
+    "storage_bucket": "es3af-ca2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835203756984:android:02b55dff6e92d9fb",
+        "android_client_info": {
+          "package_name": "com.wolfsoft.teammeetingschudule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835203756984-jqs21oulb167onjo7ld1u7e6uj8vq14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-EIKhT6pSlXEMuKIfoXvaaIUgBY3kVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
